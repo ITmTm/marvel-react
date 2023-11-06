@@ -1,1 +1,0 @@
-import('./randomChar.scss')
