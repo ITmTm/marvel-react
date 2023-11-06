@@ -1,1 +1,1 @@
-@import('./appBanner.scss')
+import('./appBanner.scss')
