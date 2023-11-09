@@ -8,13 +8,13 @@
   &__block {
     padding: 40px 35px;
     display: grid;
-    grid-template-columns: 180px auto;
+    grid-template-columns: 190px auto;
     column-gap: 30px;
   }
   &__img {
-    width: 180px;
+    width: 205px;
     height: 180px;
-    //object-fit: cover;
+    object-fit: cover;
   }
   &__info {
     display: grid;
